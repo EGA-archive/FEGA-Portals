@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**FEGA node**
+Indicate your node (e.g. Spain).
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
