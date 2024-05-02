@@ -10,6 +10,9 @@ assignees: ''
 **FEGA node**
 Indicate your node (e.g. Spain).
 
+** Affected portal**
+One of: Submitter Portal, Submission API or HD Portal.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
